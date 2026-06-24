@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2b4651c3c59f73f",
+        "id": "043ec5a23b9c825a",
         "type": "tabs",
         "children": [
           {
-            "id": "6f405428f2d1f134",
+            "id": "23532c972c6bdc4e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -173,7 +173,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 553.5
+    "width": 488.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,10 +188,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "554f411557ce8cc0",
+  "active": "23532c972c6bdc4e",
   "lastOpenFiles": [
+    "README.md",
+    "agent/Milvus 向量数据库.md",
     "agent/RAG：把文档向量化，基于向量实现真正的语义搜索 1.md",
-    "agent/RAG：把文档向量化，基于向量实现真正的语义搜索.md",
-    "README.md"
+    "agent/RAG：把文档向量化，基于向量实现真正的语义搜索.md"
   ]
 }
