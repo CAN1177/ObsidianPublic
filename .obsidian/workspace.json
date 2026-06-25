@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agent/大模型结构化输出：output parser 还是 tool.md",
+                "file": "D-Agent/4、大模型结构化输出：output parser 还是 tool.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "大模型结构化输出：output parser 还是 tool"
+              "title": "4、大模型结构化输出：output parser 还是 tool"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 326.5
   },
   "right": {
     "id": "e05a961fe83b7cb5",
@@ -195,12 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3a0a762b2740de2",
+  "active": "554f411557ce8cc0",
   "lastOpenFiles": [
-    "agent/大模型结构化输出：output parser 还是 tool.md",
-    "agent/RAG：把文档向量化，基于向量实现真正的语义搜索 1.md",
-    "agent/Milvus向量数据库复习笔记.md",
-    "agent/Memory 管理的三大策略：截断、总结、检索.md",
+    "D-Agent/3、Memory 管理的三大策略：截断、总结、检索.md",
+    "D-Agent/2、Milvus向量数据库复习笔记.md",
+    "D-Agent/1、RAG：把文档向量化，基于向量实现真正的语义搜索.md",
+    "D-Agent/4、大模型结构化输出：output parser 还是 tool.md",
     "agent/Milvus 向量数据库.md",
     "README.md",
     "agent/RAG：把文档向量化，基于向量实现真正的语义搜索.md"
