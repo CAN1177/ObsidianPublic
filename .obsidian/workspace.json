@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "agent/Milvus 向量数据库.md",
+                "file": "agent/Milvus向量数据库复习笔记.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Milvus 向量数据库"
+              "title": "Milvus向量数据库复习笔记"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e05a961fe83b7cb5",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "agent/Milvus 向量数据库.md",
+                "file": "agent/Milvus向量数据库复习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Milvus 向量数据库 的反向链接列表"
+              "title": "Milvus向量数据库复习笔记 的反向链接列表"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "agent/Milvus 向量数据库.md",
+                "file": "agent/Milvus向量数据库复习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Milvus 向量数据库 的出链列表"
+              "title": "Milvus向量数据库复习笔记 的出链列表"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "agent/Milvus 向量数据库.md",
+                "file": "agent/Milvus向量数据库复习笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Milvus 向量数据库 的大纲"
+              "title": "Milvus向量数据库复习笔记 的大纲"
             }
           },
           {
@@ -195,12 +195,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "554f411557ce8cc0",
+  "active": "23532c972c6bdc4e",
   "lastOpenFiles": [
-    "agent/Memory 管理的三大策略：截断、总结、检索.md",
-    "agent/Memory 管理的三大策略：截断、总结、检索.md",
-    "agent/Milvus 向量数据库.md",
     "agent/RAG：把文档向量化，基于向量实现真正的语义搜索 1.md",
+    "agent/Milvus 向量数据库.md",
+    "agent/Milvus向量数据库复习笔记.md",
+    "agent/Memory 管理的三大策略：截断、总结、检索.md",
     "README.md",
     "agent/RAG：把文档向量化，基于向量实现真正的语义搜索.md"
   ]
