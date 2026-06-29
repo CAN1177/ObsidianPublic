@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243.5
+    "width": 235.5
   },
   "right": {
     "id": "e05a961fe83b7cb5",
@@ -197,8 +197,9 @@
   },
   "active": "97cb7e8afbd2a4fd",
   "lastOpenFiles": [
+    "IDEA/stack-forge-iterative-roadmap.md",
     "IDEA/skill-self-improving.md",
-    "IDEA/skill-self-improving.md",
+    "IDEA/stack-forge-iterative-roadmap 1.md",
     "IDEA/留痕 cli.md",
     "IDEA/Pasted image 20260626113939.png",
     "IDEA/遇事留痕-场景全景图.md",
