@@ -11,10 +11,14 @@
             "id": "97cb7e8afbd2a4fd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "IDEA/skill-self-improving.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "skill-self-improving"
             }
           }
         ]
@@ -193,6 +197,8 @@
   },
   "active": "97cb7e8afbd2a4fd",
   "lastOpenFiles": [
+    "IDEA/skill-self-improving.md",
+    "IDEA/skill-self-improving.md",
     "IDEA/留痕 cli.md",
     "IDEA/Pasted image 20260626113939.png",
     "IDEA/遇事留痕-场景全景图.md",
