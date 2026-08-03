@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "06f3c19c94366bd2",
+        "id": "1e18451ac7245286",
         "type": "tabs",
         "children": [
           {
-            "id": "5915cf41859db1f8",
+            "id": "0f1a8f8b33670642",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Agent 系统设计/List.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "List"
+              "title": "新标签页"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 333.5
+    "width": 304.5
   },
   "right": {
     "id": "e05a961fe83b7cb5",
@@ -180,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 451.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,24 +191,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5915cf41859db1f8",
+  "active": "9ebdbebefde78b0a",
   "lastOpenFiles": [
-    "Agent 系统设计/List.md",
-    "Agent 系统设计/2、三层意图识别机制：别再回答\"调大模型判断\"了.md",
-    "Agent 系统设计/1、用户输入规范化：为什么你的 Agent 连\"那个\"\"最划算\"都听不懂？.md",
     "Pasted image 20260803150219.png",
     "Pasted image 20260803150138.png",
     "Pasted image 20260803150128.png",
-    "IDEA/Pasted image 20260626113939.png",
-    "IDEA/self-improvement-architecture-recommendation.md",
+    "IDEA/工作流编排.md",
+    "Agent 系统设计/List.md",
+    "Agent 系统设计/2、三层意图识别机制：别再回答\"调大模型判断\"了.md",
+    "Agent 系统设计/1、用户输入规范化：为什么你的 Agent 连\"那个\"\"最划算\"都听不懂？.md",
+    "Agent 系统设计",
+    "Clippings/码良 on X \"月之暗面付强提出了一套很有意思的「AI Native 人才观」。它不是在讲“谁更努力”，而是在重新定义：AI 时代，什么样的人更值钱。一共五层：👇\".md",
+    "Clippings",
     "IDEA/skill-self-improving.md",
     "IDEA/stack-forge-iterative-roadmap 1.md",
-    "IDEA/stack-forge-iterative-roadmap.md",
-    "IDEA/留痕 cli.md",
-    "IDEA/工作流编排.md",
-    "Agent 系统设计",
     "D-Agent/5、Prompt Template：组件化管理 prompt.md",
+    "IDEA/留痕 cli.md",
     "D-Agent/4、大模型结构化输出：output parser 还是 tool.md",
+    "IDEA/self-improvement-architecture-recommendation.md",
+    "IDEA/stack-forge-iterative-roadmap.md",
+    "IDEA/Pasted image 20260626113939.png",
     "IDEA/遇事留痕-场景全景图.md",
     "IDEA",
     "D-Agent/1、RAG：把文档向量化，基于向量实现真正的语义搜索.md",
