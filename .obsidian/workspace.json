@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Agent 系统设计/1、用户输入规范化：为什么你的 Agent 连\"那个\"\"最划算\"都听不懂？.md",
+                "file": "Agent 系统设计/2、三层意图识别机制：别再回答\"调大模型判断\"了.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1、用户输入规范化：为什么你的 Agent 连\"那个\"\"最划算\"都听不懂？"
+              "title": "2、三层意图识别机制：别再回答\"调大模型判断\"了"
             }
           }
         ]
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,6 +197,8 @@
   },
   "active": "450aa955667cf357",
   "lastOpenFiles": [
+    "Agent 系统设计/1、用户输入规范化：为什么你的 Agent 连\"那个\"\"最划算\"都听不懂？.md",
+    "Agent 系统设计/2、三层意图识别机制：别再回答\"调大模型判断\"了.md",
     "Pasted image 20260803150219.png",
     "Pasted image 20260803150138.png",
     "Pasted image 20260803150128.png",
@@ -207,7 +209,6 @@
     "IDEA/stack-forge-iterative-roadmap.md",
     "IDEA/留痕 cli.md",
     "IDEA/工作流编排.md",
-    "Agent 系统设计/1、用户输入规范化：为什么你的 Agent 连\"那个\"\"最划算\"都听不懂？.md",
     "Agent 系统设计",
     "D-Agent/5、Prompt Template：组件化管理 prompt.md",
     "D-Agent/4、大模型结构化输出：output parser 还是 tool.md",
