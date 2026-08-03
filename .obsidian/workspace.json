@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d45a7a68cf073e4c",
+        "id": "3e7207ebdd523864",
         "type": "tabs",
         "children": [
           {
-            "id": "a8d25511c5563af7",
+            "id": "450aa955667cf357",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "D-Agent/5、Prompt Template：组件化管理 prompt.md",
-                "bFile": "D-Agent/5、Prompt Template：组件化管理 prompt.md",
-                "aRef": ""
+                "file": "Agent 系统设计/1、用户输入规范化：为什么你的 Agent 连\"那个\"\"最划算\"都听不懂？.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 5、Prompt Template：组件化管理 prompt  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "1、用户输入规范化：为什么你的 Agent 连\"那个\"\"最划算\"都听不懂？"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 333.5
   },
   "right": {
     "id": "e05a961fe83b7cb5",
@@ -180,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,16 +195,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a8d25511c5563af7",
+  "active": "450aa955667cf357",
   "lastOpenFiles": [
+    "Pasted image 20260803150219.png",
+    "Pasted image 20260803150138.png",
+    "Pasted image 20260803150128.png",
+    "IDEA/Pasted image 20260626113939.png",
+    "IDEA/self-improvement-architecture-recommendation.md",
     "IDEA/skill-self-improving.md",
     "IDEA/stack-forge-iterative-roadmap 1.md",
-    "D-Agent/5、Prompt Template：组件化管理 prompt.md",
-    "IDEA/留痕 cli.md",
-    "D-Agent/4、大模型结构化输出：output parser 还是 tool.md",
-    "IDEA/self-improvement-architecture-recommendation.md",
     "IDEA/stack-forge-iterative-roadmap.md",
-    "IDEA/Pasted image 20260626113939.png",
+    "IDEA/留痕 cli.md",
+    "IDEA/工作流编排.md",
+    "Agent 系统设计/1、用户输入规范化：为什么你的 Agent 连\"那个\"\"最划算\"都听不懂？.md",
+    "Agent 系统设计",
+    "D-Agent/5、Prompt Template：组件化管理 prompt.md",
+    "D-Agent/4、大模型结构化输出：output parser 还是 tool.md",
     "IDEA/遇事留痕-场景全景图.md",
     "IDEA",
     "D-Agent/1、RAG：把文档向量化，基于向量实现真正的语义搜索.md",
