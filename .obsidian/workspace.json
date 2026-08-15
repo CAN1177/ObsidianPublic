@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e18451ac7245286",
+        "id": "f3debcaa9b5167a9",
         "type": "tabs",
         "children": [
           {
-            "id": "0f1a8f8b33670642",
+            "id": "57c1531a873ccae1",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -191,13 +191,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9ebdbebefde78b0a",
+  "active": "57c1531a873ccae1",
   "lastOpenFiles": [
+    "Agent 系统设计/List.md",
     "Pasted image 20260803150219.png",
     "Pasted image 20260803150138.png",
     "Pasted image 20260803150128.png",
     "IDEA/工作流编排.md",
-    "Agent 系统设计/List.md",
     "Agent 系统设计/2、三层意图识别机制：别再回答\"调大模型判断\"了.md",
     "Agent 系统设计/1、用户输入规范化：为什么你的 Agent 连\"那个\"\"最划算\"都听不懂？.md",
     "Agent 系统设计",
