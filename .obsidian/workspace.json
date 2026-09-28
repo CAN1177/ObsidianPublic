@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f3debcaa9b5167a9",
+        "id": "86b2e87bc57970e7",
         "type": "tabs",
         "children": [
           {
-            "id": "57c1531a873ccae1",
+            "id": "f0a3ee853d73748d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "最佳实践/流程编排/流程编排复习.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "流程编排复习"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -74,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 304.5
+    "width": 210.7265625
   },
   "right": {
     "id": "e05a961fe83b7cb5",
@@ -176,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 451.5
+    "width": 255.19140625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,33 +197,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "57c1531a873ccae1",
+  "active": "f0a3ee853d73748d",
   "lastOpenFiles": [
-    "Agent 系统设计/List.md",
-    "Pasted image 20260803150219.png",
-    "Pasted image 20260803150138.png",
-    "Pasted image 20260803150128.png",
-    "IDEA/工作流编排.md",
+    "最佳实践/流程编排.md",
+    "最佳实践/流程编排/流程编排复习.md",
+    "最佳实践/流程编排",
+    "README.md",
+    "最佳实践",
     "Agent 系统设计/2、三层意图识别机制：别再回答\"调大模型判断\"了.md",
     "Agent 系统设计/1、用户输入规范化：为什么你的 Agent 连\"那个\"\"最划算\"都听不懂？.md",
-    "Agent 系统设计",
-    "Clippings/码良 on X \"月之暗面付强提出了一套很有意思的「AI Native 人才观」。它不是在讲“谁更努力”，而是在重新定义：AI 时代，什么样的人更值钱。一共五层：👇\".md",
-    "Clippings",
+    "Pasted image 20260803150128.png",
+    "Pasted image 20260803150138.png",
+    "Pasted image 20260803150219.png",
+    "IDEA/留痕 cli.md",
+    "IDEA/工作流编排.md",
+    "Agent 系统设计/List.md",
+    "IDEA/Pasted image 20260626113939.png",
+    "IDEA/self-improvement-architecture-recommendation.md",
     "IDEA/skill-self-improving.md",
     "IDEA/stack-forge-iterative-roadmap 1.md",
-    "D-Agent/5、Prompt Template：组件化管理 prompt.md",
-    "IDEA/留痕 cli.md",
-    "D-Agent/4、大模型结构化输出：output parser 还是 tool.md",
-    "IDEA/self-improvement-architecture-recommendation.md",
     "IDEA/stack-forge-iterative-roadmap.md",
-    "IDEA/Pasted image 20260626113939.png",
+    "Agent 系统设计",
+    "D-Agent/5、Prompt Template：组件化管理 prompt.md",
+    "D-Agent/4、大模型结构化输出：output parser 还是 tool.md",
     "IDEA/遇事留痕-场景全景图.md",
     "IDEA",
     "D-Agent/1、RAG：把文档向量化，基于向量实现真正的语义搜索.md",
     "D-Agent/3、Memory 管理的三大策略：截断、总结、检索.md",
     "D-Agent/2、Milvus向量数据库复习笔记.md",
     "agent/Milvus 向量数据库.md",
-    "README.md",
     "agent/RAG：把文档向量化，基于向量实现真正的语义搜索.md"
   ]
 }
